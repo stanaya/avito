@@ -1,0 +1,497 @@
+Error executing Jupyter command 'notbook': [Errno 2] No such file or directory
+[W 06:39:23.441 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 06:39:23.475 NotebookApp] JupyterLab beta preview extension loaded from /home/stanaya/.pyenv/versions/anaconda3-5.1.0/lib/python3.6/site-packages/jupyterlab
+[I 06:39:23.475 NotebookApp] JupyterLab application directory is /home/stanaya/.pyenv/versions/anaconda3-5.1.0/share/jupyter/lab
+[I 06:39:23.480 NotebookApp] Serving notebooks from local directory: /home/stanaya/avito
+[I 06:39:23.480 NotebookApp] 0 active kernels
+[I 06:39:23.480 NotebookApp] The Jupyter Notebook is running at:
+[I 06:39:23.480 NotebookApp] http://[all ip addresses on your system]:8888/
+[I 06:39:23.480 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 06:39:28.698 NotebookApp] 302 GET / (221.241.213.98) 0.73ms
+[I 06:39:33.402 NotebookApp] Kernel started: fb5c5389-c3fc-4cd4-ae57-c4f4cc987b05
+[I 06:39:34.227 NotebookApp] Adapting to protocol v5.1 for kernel fb5c5389-c3fc-4cd4-ae57-c4f4cc987b05
+[I 06:39:38.596 NotebookApp] Starting buffering for fb5c5389-c3fc-4cd4-ae57-c4f4cc987b05:b7c0a94c0aaa4fd8b2eacb27b90dae92
+[I 06:39:38.905 NotebookApp] Kernel restarted: fb5c5389-c3fc-4cd4-ae57-c4f4cc987b05
+[I 06:39:39.809 NotebookApp] Adapting to protocol v5.1 for kernel fb5c5389-c3fc-4cd4-ae57-c4f4cc987b05
+[I 06:39:39.810 NotebookApp] Restoring connection for fb5c5389-c3fc-4cd4-ae57-c4f4cc987b05:b7c0a94c0aaa4fd8b2eacb27b90dae92
+[I 06:39:39.810 NotebookApp] Replaying 5 buffered messages
+[I 06:39:41.420 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 06:41:35.127 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 06:43:33.426 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 06:45:34.271 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 06:47:33.401 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 06:49:35.072 NotebookApp] Kernel interrupted: fb5c5389-c3fc-4cd4-ae57-c4f4cc987b05
+[I 06:51:33.829 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 06:53:33.443 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 06:54:12.703 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 06:55:33.882 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 06:56:50.572 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 06:57:33.532 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 06:58:14.248 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 06:58:22.846 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 06:58:50.910 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 06:59:33.774 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 07:12:04.938 NotebookApp] Kernel interrupted: fb5c5389-c3fc-4cd4-ae57-c4f4cc987b05
+[I 07:13:33.496 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 07:15:33.446 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 07:17:07.105 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 07:17:33.843 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 07:19:33.570 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 07:22:40.166 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 07:23:14.135 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 07:23:33.491 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 07:25:53.317 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 07:27:35.235 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 07:29:34.250 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 07:37:24.453 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 07:39:35.246 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 07:41:33.811 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 07:42:02.531 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 07:43:33.813 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 07:45:42.496 NotebookApp] Kernel started: 0237ab30-3805-48e2-948d-92be8c3652dc
+[I 07:45:43.230 NotebookApp] Adapting to protocol v5.1 for kernel 0237ab30-3805-48e2-948d-92be8c3652dc
+[I 08:00:52.938 NotebookApp] 302 GET / (54.200.29.204) 0.59ms
+[I 08:03:01.427 NotebookApp] Kernel interrupted: fb5c5389-c3fc-4cd4-ae57-c4f4cc987b05
+[I 08:03:33.568 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 08:03:36.039 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 08:04:50.297 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 08:05:33.468 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 08:09:33.815 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 08:23:33.610 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 08:24:09.533 NotebookApp] Saving file at /avito_third_with_LDA.ipynb
+[I 08:24:18.990 NotebookApp] Starting buffering for fb5c5389-c3fc-4cd4-ae57-c4f4cc987b05:b7c0a94c0aaa4fd8b2eacb27b90dae92
+[I 08:24:21.669 NotebookApp] Starting buffering for 0237ab30-3805-48e2-948d-92be8c3652dc:5fda3e15b3044e7388f2d3d8854d1b12
+[I 08:24:29.732 NotebookApp] Kernel shutdown: 0237ab30-3805-48e2-948d-92be8c3652dc
+[I 08:24:32.742 NotebookApp] Kernel shutdown: fb5c5389-c3fc-4cd4-ae57-c4f4cc987b05
+[I 08:24:35.006 NotebookApp] Copying avito_initial.ipynb to 
+[I 08:25:09.686 NotebookApp] Kernel started: 88bb4c2b-0222-4889-a484-9ba2a6fc6d8a
+[I 08:25:10.456 NotebookApp] Adapting to protocol v5.1 for kernel 88bb4c2b-0222-4889-a484-9ba2a6fc6d8a
+[W 09:16:03.589 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 11.17ms referer=None
+[I 09:55:49.054 NotebookApp] Starting buffering for 88bb4c2b-0222-4889-a484-9ba2a6fc6d8a:67557cce52fe4c52832298efa8407fb0
+[I 10:10:21.492 NotebookApp] 302 GET / (91.250.5.16) 0.64ms
+[I 11:07:21.949 NotebookApp] 302 GET / (192.241.226.148) 0.70ms
+[I 11:27:52.802 NotebookApp] 302 GET / (139.162.83.10) 0.74ms
+[I 12:55:37.894 NotebookApp] 302 GET / (189.190.217.9) 1.14ms
+[I 13:03:05.269 NotebookApp] Adapting to protocol v5.1 for kernel 88bb4c2b-0222-4889-a484-9ba2a6fc6d8a
+[I 13:04:43.548 NotebookApp] Starting buffering for 88bb4c2b-0222-4889-a484-9ba2a6fc6d8a:75926329daa648f289d55927da2a9447
+[I 13:05:00.637 NotebookApp] Adapting to protocol v5.1 for kernel 88bb4c2b-0222-4889-a484-9ba2a6fc6d8a
+[I 13:07:49.221 NotebookApp] Saving file at /avito_third_ensemble.ipynb
+[I 13:09:00.900 NotebookApp] Saving file at /avito_third_ensemble.ipynb
+[I 13:09:02.260 NotebookApp] Saving file at /avito_third_ensemble.ipynb
+[I 13:09:09.304 NotebookApp] Saving file at /avito_third_ensemble.ipynb
+[I 13:09:14.008 NotebookApp] Kernel restarted: 88bb4c2b-0222-4889-a484-9ba2a6fc6d8a
+[I 13:09:14.017 NotebookApp] Starting buffering for 88bb4c2b-0222-4889-a484-9ba2a6fc6d8a:1f4308c806c04e90a5cbe5d6ffc097cd
+[I 13:09:14.969 NotebookApp] Adapting to protocol v5.1 for kernel 88bb4c2b-0222-4889-a484-9ba2a6fc6d8a
+[I 13:09:14.970 NotebookApp] Restoring connection for 88bb4c2b-0222-4889-a484-9ba2a6fc6d8a:1f4308c806c04e90a5cbe5d6ffc097cd
+[I 13:09:14.970 NotebookApp] Replaying 3 buffered messages
+[I 13:11:00.653 NotebookApp] Saving file at /avito_third_ensemble.ipynb
+[I 13:15:53.157 NotebookApp] Saving file at /avito_third_ensemble.ipynb
+[I 13:19:48.586 NotebookApp] Saving file at /avito_third_ensemble.ipynb
+[I 13:20:37.261 NotebookApp] Saving file at /avito_third_ensemble.ipynb
+[I 13:21:00.605 NotebookApp] Starting buffering for 88bb4c2b-0222-4889-a484-9ba2a6fc6d8a:1f4308c806c04e90a5cbe5d6ffc097cd
+[I 13:21:06.674 NotebookApp] Kernel shutdown: 88bb4c2b-0222-4889-a484-9ba2a6fc6d8a
+[W 13:21:06.676 NotebookApp] delete /avito_third_ensemble.ipynb
+[I 13:21:18.787 NotebookApp] Copying avito_kernel_reading.ipynb to 
+[I 13:22:07.380 NotebookApp] Kernel started: f1e46b20-3764-4a67-b23c-896896dcc1b3
+[I 13:22:08.217 NotebookApp] Adapting to protocol v5.1 for kernel f1e46b20-3764-4a67-b23c-896896dcc1b3
+[I 13:22:19.891 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 13:23:09.848 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 13:23:19.002 NotebookApp] Starting buffering for f1e46b20-3764-4a67-b23c-896896dcc1b3:ada157cea7194b78a7f1acf593cfe259
+[I 13:23:19.412 NotebookApp] Kernel restarted: f1e46b20-3764-4a67-b23c-896896dcc1b3
+[I 13:23:20.286 NotebookApp] Adapting to protocol v5.1 for kernel f1e46b20-3764-4a67-b23c-896896dcc1b3
+[I 13:23:20.287 NotebookApp] Restoring connection for f1e46b20-3764-4a67-b23c-896896dcc1b3:ada157cea7194b78a7f1acf593cfe259
+[I 13:23:20.287 NotebookApp] Replaying 6 buffered messages
+[I 13:24:08.091 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 13:26:17.724 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 13:26:26.141 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 13:26:48.159 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 13:27:20.523 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 13:28:07.462 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 13:29:17.625 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 13:30:07.441 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 13:32:04.387 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 13:40:02.387 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 13:40:12.614 NotebookApp] Starting buffering for f1e46b20-3764-4a67-b23c-896896dcc1b3:ada157cea7194b78a7f1acf593cfe259
+[C 13:40:49.615 NotebookApp] received signal 15, stopping
+[I 13:40:49.617 NotebookApp] Shutting down 1 kernel
+[I 13:40:50.019 NotebookApp] Kernel shutdown: f1e46b20-3764-4a67-b23c-896896dcc1b3
+[I 22:07:42.060 NotebookApp] Writing notebook server cookie secret to /run/user/1001/jupyter/notebook_cookie_secret
+[W 22:07:47.806 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 22:07:48.060 NotebookApp] JupyterLab beta preview extension loaded from /home/stanaya/.pyenv/versions/anaconda3-5.1.0/lib/python3.6/site-packages/jupyterlab
+[I 22:07:48.060 NotebookApp] JupyterLab application directory is /home/stanaya/.pyenv/versions/anaconda3-5.1.0/share/jupyter/lab
+[I 22:07:48.073 NotebookApp] Serving notebooks from local directory: /home/stanaya/avito
+[I 22:07:48.073 NotebookApp] 0 active kernels
+[I 22:07:48.073 NotebookApp] The Jupyter Notebook is running at:
+[I 22:07:48.073 NotebookApp] http://[all ip addresses on your system]:8888/
+[I 22:07:48.073 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 22:23:28.685 NotebookApp] 302 GET / (114.182.188.198) 0.80ms
+[I 22:23:28.737 NotebookApp] 302 GET /tree? (114.182.188.198) 1.36ms
+[W 22:23:32.577 NotebookApp] 401 POST /login?next=%2Ftree%3F (114.182.188.198) 1.94ms referer=http://35.229.152.197:8888/login?next=%2Ftree%3F
+[I 22:23:36.211 NotebookApp] 302 POST /login?next=%2Ftree%3F (114.182.188.198) 1.52ms
+[I 22:23:46.260 NotebookApp] Kernel started: 7dc79e1d-1866-4528-8dd0-e4c7b7c08750
+[I 22:23:47.157 NotebookApp] Adapting to protocol v5.1 for kernel 7dc79e1d-1866-4528-8dd0-e4c7b7c08750
+[I 22:32:59.378 NotebookApp] Starting buffering for 7dc79e1d-1866-4528-8dd0-e4c7b7c08750:350e61b0be4c4df382298a4047bff936
+[I 22:32:59.735 NotebookApp] Kernel restarted: 7dc79e1d-1866-4528-8dd0-e4c7b7c08750
+[I 22:33:00.603 NotebookApp] Adapting to protocol v5.1 for kernel 7dc79e1d-1866-4528-8dd0-e4c7b7c08750
+[I 22:33:00.604 NotebookApp] Restoring connection for 7dc79e1d-1866-4528-8dd0-e4c7b7c08750:350e61b0be4c4df382298a4047bff936
+[I 22:33:00.604 NotebookApp] Replaying 6 buffered messages
+[I 22:33:46.225 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 22:35:46.178 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 22:36:05.667 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 22:36:10.758 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 22:37:46.475 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 22:41:47.498 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 22:42:12.296 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 22:42:14.769 NotebookApp] Kernel interrupted: 7dc79e1d-1866-4528-8dd0-e4c7b7c08750
+[I 22:43:46.172 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 22:43:59.368 NotebookApp] Starting buffering for 7dc79e1d-1866-4528-8dd0-e4c7b7c08750:350e61b0be4c4df382298a4047bff936
+[I 22:44:04.815 NotebookApp] Kernel restarted: 7dc79e1d-1866-4528-8dd0-e4c7b7c08750
+[I 22:44:05.040 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 22:44:05.808 NotebookApp] Adapting to protocol v5.1 for kernel 7dc79e1d-1866-4528-8dd0-e4c7b7c08750
+[I 22:44:05.809 NotebookApp] Restoring connection for 7dc79e1d-1866-4528-8dd0-e4c7b7c08750:350e61b0be4c4df382298a4047bff936
+[I 22:44:05.809 NotebookApp] Replaying 3 buffered messages
+[I 22:45:46.957 NotebookApp] Kernel started: a409b7bb-d0e5-420c-a01a-894c91fbaf7a
+[I 22:45:47.222 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 22:45:47.718 NotebookApp] Adapting to protocol v5.1 for kernel a409b7bb-d0e5-420c-a01a-894c91fbaf7a
+[I 22:45:48.298 NotebookApp] Starting buffering for a409b7bb-d0e5-420c-a01a-894c91fbaf7a:165aa28c355d4ec88625ab4fe335a3ea
+[I 22:45:56.203 NotebookApp] Copying avito_third_with_LDA.ipynb to 
+[I 22:46:47.202 NotebookApp] Kernel shutdown: a409b7bb-d0e5-420c-a01a-894c91fbaf7a
+[I 22:47:46.488 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 22:47:47.358 NotebookApp] Kernel started: 167f9658-a702-4092-b311-2787782484a0
+[I 22:47:48.132 NotebookApp] Adapting to protocol v5.1 for kernel 167f9658-a702-4092-b311-2787782484a0
+[I 22:47:51.396 NotebookApp] Starting buffering for 167f9658-a702-4092-b311-2787782484a0:be59ff40511e44bf8886eb1a894f382a
+[I 22:47:51.704 NotebookApp] Kernel restarted: 167f9658-a702-4092-b311-2787782484a0
+[I 22:47:52.584 NotebookApp] Adapting to protocol v5.1 for kernel 167f9658-a702-4092-b311-2787782484a0
+[I 22:47:52.585 NotebookApp] Restoring connection for 167f9658-a702-4092-b311-2787782484a0:be59ff40511e44bf8886eb1a894f382a
+[I 22:47:52.585 NotebookApp] Replaying 6 buffered messages
+[I 22:48:12.382 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 22:49:46.187 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 22:49:47.458 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 22:51:47.450 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 22:53:47.551 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 22:55:47.471 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 22:56:11.701 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 22:58:00.959 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 22:59:46.556 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 22:59:47.472 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:01:46.500 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 23:02:46.666 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:03:10.909 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:03:46.245 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 23:03:47.499 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:05:46.500 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 23:05:47.423 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:07:46.496 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 23:08:50.454 NotebookApp] Kernel interrupted: 167f9658-a702-4092-b311-2787782484a0
+[I 23:08:59.912 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:09:08.224 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:09:46.455 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 23:09:47.422 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:10:42.628 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:11:31.507 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:11:47.419 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:12:15.986 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:12:23.762 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:13:37.644 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 23:15:18.335 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:15:47.441 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:19:47.440 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:20:29.515 NotebookApp] 302 GET / (78.108.159.153) 0.73ms
+[I 23:23:22.647 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:23:47.445 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:27:47.445 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:35:47.535 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:37:47.432 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:41:47.436 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:41:49.276 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:43:47.434 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:51:47.494 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:53:47.495 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:55:47.446 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 23:59:47.508 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 00:53:47.613 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 00:55:47.511 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 00:57:47.466 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 01:01:47.492 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 01:05:47.493 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 01:07:47.462 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 01:09:47.468 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 01:11:47.468 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 01:12:38.482 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[W 02:16:59.508 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 31.95ms referer=None
+[I 02:25:12.595 NotebookApp] 302 GET / (124.197.91.162) 0.67ms
+[W 09:00:34.823 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 1.99ms referer=None
+[I 10:43:31.281 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 10:43:31.843 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 10:43:31.942 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 10:43:32.225 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 10:43:40.494 NotebookApp] Starting buffering for 167f9658-a702-4092-b311-2787782484a0:be59ff40511e44bf8886eb1a894f382a
+[I 10:43:43.563 NotebookApp] Starting buffering for 7dc79e1d-1866-4528-8dd0-e4c7b7c08750:350e61b0be4c4df382298a4047bff936
+[C 10:47:38.741 NotebookApp] received signal 15, stopping
+[I 10:47:38.742 NotebookApp] Shutting down 2 kernels
+[I 10:47:39.144 NotebookApp] Kernel shutdown: 7dc79e1d-1866-4528-8dd0-e4c7b7c08750
+[I 10:47:39.445 NotebookApp] Kernel shutdown: 167f9658-a702-4092-b311-2787782484a0
+[I 01:18:41.661 NotebookApp] Writing notebook server cookie secret to /run/user/1001/jupyter/notebook_cookie_secret
+[W 01:18:47.041 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 01:18:47.244 NotebookApp] JupyterLab beta preview extension loaded from /home/stanaya/.pyenv/versions/anaconda3-5.1.0/lib/python3.6/site-packages/jupyterlab
+[I 01:18:47.244 NotebookApp] JupyterLab application directory is /home/stanaya/.pyenv/versions/anaconda3-5.1.0/share/jupyter/lab
+[I 01:18:47.289 NotebookApp] Serving notebooks from local directory: /home/stanaya/avito
+[I 01:18:47.289 NotebookApp] 0 active kernels
+[I 01:18:47.289 NotebookApp] The Jupyter Notebook is running at:
+[I 01:18:47.289 NotebookApp] http://[all ip addresses on your system]:8888/
+[I 01:18:47.289 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 01:19:36.755 NotebookApp] Malformed HTTP message from 221.241.213.98: Malformed HTTP headers: '\n÷\x1e @\x1b\xad°M-¬¦ñ¤óÖÄì¦kVOCøÝ\x0cQK\x08H\x92Ý\x11wk\x8a\x00"\n\n'
+[I 01:19:37.078 NotebookApp] Malformed HTTP message from 221.241.213.98: Malformed HTTP headers: '\n\x01\x00\x00e**\x00\x00ÿ\x01\x00\x01\x00\x00\x17\x00\x00\x00#\x00\x00\x00\r\x00\x14\x00'
+[I 01:19:46.321 NotebookApp] 302 GET / (221.241.213.98) 0.71ms
+[I 01:19:46.366 NotebookApp] 302 GET /tree? (221.241.213.98) 1.42ms
+[I 01:19:49.196 NotebookApp] 302 POST /login?next=%2Ftree%3F (221.241.213.98) 1.29ms
+[I 01:20:03.069 NotebookApp] Kernel started: 13129872-7842-44b3-b4b9-e9aec2b0d1f8
+[I 01:20:04.016 NotebookApp] Adapting to protocol v5.1 for kernel 13129872-7842-44b3-b4b9-e9aec2b0d1f8
+[I 01:20:07.975 NotebookApp] Starting buffering for 13129872-7842-44b3-b4b9-e9aec2b0d1f8:27ed4e146eba4b53937f81e339e2f774
+[I 01:20:08.281 NotebookApp] Kernel restarted: 13129872-7842-44b3-b4b9-e9aec2b0d1f8
+[I 01:20:09.211 NotebookApp] Adapting to protocol v5.1 for kernel 13129872-7842-44b3-b4b9-e9aec2b0d1f8
+[I 01:20:09.212 NotebookApp] Restoring connection for 13129872-7842-44b3-b4b9-e9aec2b0d1f8:27ed4e146eba4b53937f81e339e2f774
+[I 01:20:09.212 NotebookApp] Replaying 3 buffered messages
+[I 01:21:30.636 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 01:22:02.906 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 01:24:02.896 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 01:26:02.893 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 01:27:26.266 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 01:28:03.694 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 01:30:03.684 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[W 01:31:15.136 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 25.68ms referer=None
+[I 01:32:03.710 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 01:38:03.846 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 01:40:02.931 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 01:42:03.687 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 01:44:02.901 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 01:45:29.664 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:01:44.393 NotebookApp] Kernel interrupted: 13129872-7842-44b3-b4b9-e9aec2b0d1f8
+[I 02:01:48.209 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:02:02.927 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:02:40.657 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:04:02.920 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:04:13.640 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:04:33.667 NotebookApp] Kernel interrupted: 13129872-7842-44b3-b4b9-e9aec2b0d1f8
+[I 02:04:35.263 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:04:38.994 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:06:03.775 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:07:25.135 NotebookApp] Kernel interrupted: 13129872-7842-44b3-b4b9-e9aec2b0d1f8
+[I 02:07:45.146 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:07:57.531 NotebookApp] Kernel interrupted: 13129872-7842-44b3-b4b9-e9aec2b0d1f8
+[I 02:08:01.968 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:08:02.989 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:10:02.919 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:10:04.948 NotebookApp] Kernel interrupted: 13129872-7842-44b3-b4b9-e9aec2b0d1f8
+[I 02:12:03.723 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:12:28.565 NotebookApp] 302 GET / (190.94.136.205) 0.50ms
+[I 02:14:02.928 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:14:37.848 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:16:03.824 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:42:03.021 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:43:19.401 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:44:02.946 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:44:18.025 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:45:33.258 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:45:37.493 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:46:02.944 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:48:02.941 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:48:08.520 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:50:03.749 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 02:54:03.761 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 03:01:57.281 NotebookApp] Kernel interrupted: 13129872-7842-44b3-b4b9-e9aec2b0d1f8
+[I 03:02:03.025 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 03:04:03.765 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 03:08:03.760 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 03:18:03.871 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 03:34:03.864 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 03:49:44.505 NotebookApp] Kernel interrupted: 13129872-7842-44b3-b4b9-e9aec2b0d1f8
+[I 03:49:51.577 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 03:50:02.973 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 03:51:41.184 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 03:51:52.274 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 03:52:02.968 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 03:52:10.006 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 03:54:02.972 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:00:03.111 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:02:03.041 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:03:07.997 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:06:03.000 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:06:42.207 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:08:04.156 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:10:09.849 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:10:53.240 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:12:03.936 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:21:17.188 NotebookApp] Kernel interrupted: 13129872-7842-44b3-b4b9-e9aec2b0d1f8
+[I 05:21:20.108 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:23:29.132 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:23:59.282 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:24:06.715 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:24:43.582 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:25:28.934 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:25:42.356 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:28:03.011 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:28:26.577 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:28:35.270 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:28:53.842 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:29:00.487 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:29:29.059 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:38:03.858 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:49:36.217 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:49:50.963 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:50:23.097 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:52:00.790 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:52:34.196 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:53:02.273 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:53:06.149 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:54:03.907 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:56:03.070 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 05:56:11.203 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:00:03.029 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:00:45.001 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:02:03.026 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:02:27.295 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:02:43.100 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:04:20.026 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:06:03.035 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:08:03.042 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:09:41.239 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:09:46.514 NotebookApp] Kernel interrupted: 13129872-7842-44b3-b4b9-e9aec2b0d1f8
+[I 06:09:49.659 NotebookApp] Kernel interrupted: 13129872-7842-44b3-b4b9-e9aec2b0d1f8
+[I 06:09:59.394 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:10:08.984 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:10:24.245 NotebookApp] Starting buffering for 13129872-7842-44b3-b4b9-e9aec2b0d1f8:27ed4e146eba4b53937f81e339e2f774
+[I 06:10:30.433 NotebookApp] Kernel restarted: 13129872-7842-44b3-b4b9-e9aec2b0d1f8
+[I 06:10:30.676 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:10:31.483 NotebookApp] Adapting to protocol v5.1 for kernel 13129872-7842-44b3-b4b9-e9aec2b0d1f8
+[I 06:10:31.484 NotebookApp] Restoring connection for 13129872-7842-44b3-b4b9-e9aec2b0d1f8:27ed4e146eba4b53937f81e339e2f774
+[I 06:10:31.484 NotebookApp] Replaying 5 buffered messages
+[I 06:10:33.046 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:11:00.060 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:12:03.852 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:14:03.842 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:16:03.868 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:24:03.935 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:36:03.869 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:38:03.035 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:40:03.033 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:42:03.036 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 06:44:03.848 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 07:22:03.126 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 07:22:10.219 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 07:22:14.806 NotebookApp] Starting buffering for 13129872-7842-44b3-b4b9-e9aec2b0d1f8:27ed4e146eba4b53937f81e339e2f774
+[I 07:22:28.447 NotebookApp] Kernel started: a0d12a52-42a4-41cd-9106-065ee141f32a
+[W 07:22:38.591 NotebookApp] Timeout waiting for kernel_info reply from a0d12a52-42a4-41cd-9106-065ee141f32a
+[I 07:22:39.272 NotebookApp] Adapting to protocol v5.1 for kernel a0d12a52-42a4-41cd-9106-065ee141f32a
+[I 07:38:45.793 NotebookApp] Starting buffering for a0d12a52-42a4-41cd-9106-065ee141f32a:93924045e2ce46b88a933e02ed378c32
+[I 07:38:46.204 NotebookApp] Kernel restarted: a0d12a52-42a4-41cd-9106-065ee141f32a
+[I 07:38:47.131 NotebookApp] Restoring connection for a0d12a52-42a4-41cd-9106-065ee141f32a:93924045e2ce46b88a933e02ed378c32
+[I 07:38:47.131 NotebookApp] Replaying 6 buffered messages
+[I 07:38:48.984 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 07:44:29.650 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 07:46:29.136 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 07:48:29.126 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 07:50:30.218 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 07:57:22.348 NotebookApp] Kernel shutdown: 13129872-7842-44b3-b4b9-e9aec2b0d1f8
+[I 07:57:24.349 NotebookApp] Starting buffering for a0d12a52-42a4-41cd-9106-065ee141f32a:93924045e2ce46b88a933e02ed378c32
+[I 07:57:29.767 NotebookApp] Kernel restarted: a0d12a52-42a4-41cd-9106-065ee141f32a
+[I 07:57:29.997 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 07:57:38.159 NotebookApp] Restoring connection for a0d12a52-42a4-41cd-9106-065ee141f32a:93924045e2ce46b88a933e02ed378c32
+[I 07:57:38.159 NotebookApp] Replaying 6 buffered messages
+[I 07:58:23.765 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 07:58:28.436 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 08:00:29.029 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 08:02:28.902 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 08:11:51.631 NotebookApp] 302 GET / (114.231.23.23) 0.78ms
+[I 08:12:28.947 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 08:14:28.491 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 08:16:28.877 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 08:18:28.910 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 08:20:28.878 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 08:22:28.471 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 08:23:54.809 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 08:24:16.309 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 08:32:09.241 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 08:34:28.960 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 08:44:01.155 NotebookApp] 302 GET / (24.205.251.42) 0.65ms
+[I 08:44:56.764 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 08:46:16.981 NotebookApp] Kernel started: 5f738bdf-66f7-407e-8c6e-a89983424c1e
+[I 08:46:23.844 NotebookApp] Adapting to protocol v5.1 for kernel 5f738bdf-66f7-407e-8c6e-a89983424c1e
+[I 08:46:29.020 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 08:46:32.220 NotebookApp] Starting buffering for 5f738bdf-66f7-407e-8c6e-a89983424c1e:19b92e575bfd486f814cf33cb6900925
+[I 08:46:41.786 NotebookApp] Kernel shutdown: 5f738bdf-66f7-407e-8c6e-a89983424c1e
+[I 08:48:06.582 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 08:48:28.502 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 08:48:35.705 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 08:48:48.832 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 08:49:40.296 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 08:49:46.277 NotebookApp] Starting buffering for a0d12a52-42a4-41cd-9106-065ee141f32a:93924045e2ce46b88a933e02ed378c32
+[I 08:50:02.423 NotebookApp] Kernel shutdown: a0d12a52-42a4-41cd-9106-065ee141f32a
+[I 08:50:03.412 NotebookApp] Kernel started: 302596a3-b4ca-4f07-aca0-d7e9c3bc5d19
+[I 08:50:08.125 NotebookApp] Adapting to protocol v5.1 for kernel 302596a3-b4ca-4f07-aca0-d7e9c3bc5d19
+[I 08:51:24.066 NotebookApp] Starting buffering for 302596a3-b4ca-4f07-aca0-d7e9c3bc5d19:fadf6b52f7a64c818175c1553ad3b011
+[I 08:51:24.475 NotebookApp] Kernel restarted: 302596a3-b4ca-4f07-aca0-d7e9c3bc5d19
+[I 08:51:25.524 NotebookApp] Adapting to protocol v5.1 for kernel 302596a3-b4ca-4f07-aca0-d7e9c3bc5d19
+[I 08:51:25.524 NotebookApp] Restoring connection for 302596a3-b4ca-4f07-aca0-d7e9c3bc5d19:fadf6b52f7a64c818175c1553ad3b011
+[I 08:51:25.524 NotebookApp] Replaying 3 buffered messages
+[I 08:52:03.470 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 08:52:35.390 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 08:54:03.916 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 08:55:25.639 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 08:56:03.911 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[W 08:56:18.606 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 2.46ms referer=None
+[I 08:58:03.900 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 09:00:03.899 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 09:06:03.471 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 09:07:27.449 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 09:20:04.040 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 09:26:16.863 NotebookApp] Saving file at /avito_make_LDA_feature.ipynb
+[I 09:26:18.401 NotebookApp] Starting buffering for 302596a3-b4ca-4f07-aca0-d7e9c3bc5d19:fadf6b52f7a64c818175c1553ad3b011
+[I 09:26:24.776 NotebookApp] Kernel shutdown: 302596a3-b4ca-4f07-aca0-d7e9c3bc5d19
+[I 09:26:27.413 NotebookApp] Kernel started: f805d86f-1114-4e15-9233-af1df576989f
+[I 09:26:28.170 NotebookApp] Adapting to protocol v5.1 for kernel f805d86f-1114-4e15-9233-af1df576989f
+[I 09:26:32.409 NotebookApp] Kernel restarted: f805d86f-1114-4e15-9233-af1df576989f
+[I 09:26:32.415 NotebookApp] Starting buffering for f805d86f-1114-4e15-9233-af1df576989f:a9d090a5335644ff8ad468d4864cf80c
+[I 09:26:33.348 NotebookApp] Adapting to protocol v5.1 for kernel f805d86f-1114-4e15-9233-af1df576989f
+[I 09:26:33.349 NotebookApp] Restoring connection for f805d86f-1114-4e15-9233-af1df576989f:a9d090a5335644ff8ad468d4864cf80c
+[I 09:26:33.349 NotebookApp] Replaying 3 buffered messages
+[I 09:28:27.905 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 09:28:54.784 NotebookApp] Starting buffering for f805d86f-1114-4e15-9233-af1df576989f:a9d090a5335644ff8ad468d4864cf80c
+[I 12:04:20.663 NotebookApp] Adapting to protocol v5.1 for kernel f805d86f-1114-4e15-9233-af1df576989f
+[W 12:11:13.051 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 4.99ms referer=None
+[I 12:14:37.334 NotebookApp] Starting buffering for f805d86f-1114-4e15-9233-af1df576989f:9d86ca9702d045998f18ffadd13597c9
+[W 15:50:45.560 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 15.39ms referer=None
+[I 16:23:25.217 NotebookApp] 302 GET / (31.167.199.45) 5.58ms
+[I 16:51:36.254 NotebookApp] 302 GET / (91.206.146.38) 5.06ms
+[I 16:51:36.861 NotebookApp] 302 GET /tree? (91.206.146.38) 4.19ms
+[I 18:08:50.124 NotebookApp] 302 GET / (138.68.134.194) 5.33ms
+[W 19:19:17.172 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 15.66ms referer=None
+[W 20:54:36.132 NotebookApp] 404 GET http://www.baidu.com/ (123.151.42.61) 14.51ms referer=None
+[I 22:29:39.364 NotebookApp] 302 GET / (201.238.155.112) 5.40ms
+[W 00:08:39.901 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 15.40ms referer=None
+[I 00:42:25.126 NotebookApp] 302 GET / (190.94.141.231) 5.70ms
+[I 02:23:31.974 NotebookApp] Adapting to protocol v5.1 for kernel f805d86f-1114-4e15-9233-af1df576989f
+[I 02:52:42.670 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 02:53:31.962 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 02:55:31.927 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 02:57:31.961 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 03:06:04.713 NotebookApp] 302 GET / (118.187.5.168) 0.76ms
+[I 03:07:32.203 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 03:09:31.942 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 03:11:31.943 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 03:13:31.947 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 03:15:31.948 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[W 03:56:00.003 NotebookApp] 404 GET http://www.qq.com/404/search_children.js (120.132.3.65) 7.16ms referer=None
+[I 04:05:32.035 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[W 04:07:18.198 NotebookApp] 404 GET /v1/wallet/list_keys (185.169.231.209) 2.34ms referer=None
+[I 04:07:31.995 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 04:07:57.154 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 04:08:40.401 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 04:09:31.985 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 04:11:31.961 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[LightGBM] [Warning] Find whitespaces in feature_names, replace with underlines
+[I 04:13:31.966 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 05:07:32.128 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 05:11:24.949 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 05:28:02.978 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
+[I 05:28:23.982 NotebookApp] Saving file at /avito_third_lsi.ipynb
