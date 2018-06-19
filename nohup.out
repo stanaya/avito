@@ -495,3 +495,29 @@ Error executing Jupyter command 'notbook': [Errno 2] No such file or directory
 [I 05:11:24.949 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
 [I 05:28:02.978 NotebookApp] Saving file at /avito_third_ElasticNet.ipynb
 [I 05:28:23.982 NotebookApp] Saving file at /avito_third_lsi.ipynb
+[I 05:33:25.382 NotebookApp] Saving file at /avito_third_lsi.ipynb
+[I 05:33:32.037 NotebookApp] Saving file at /avito_third_lsi.ipynb
+[I 05:34:22.733 NotebookApp] Saving file at /avito_third_lsi.ipynb
+[I 05:34:36.599 NotebookApp] Starting buffering for f805d86f-1114-4e15-9233-af1df576989f:43e46a01c54047728940d72269e57e19
+[I 05:34:40.123 NotebookApp] Kernel restarted: f805d86f-1114-4e15-9233-af1df576989f
+[I 05:34:41.479 NotebookApp] Adapting to protocol v5.1 for kernel f805d86f-1114-4e15-9233-af1df576989f
+[I 05:34:41.480 NotebookApp] Restoring connection for f805d86f-1114-4e15-9233-af1df576989f:43e46a01c54047728940d72269e57e19
+[I 05:34:41.480 NotebookApp] Replaying 6 buffered messages
+[I 05:34:50.685 NotebookApp] Saving file at /avito_third_lsi.ipynb
+[I 05:35:32.033 NotebookApp] Saving file at /avito_third_lsi.ipynb
+[I 05:37:32.055 NotebookApp] Saving file at /avito_third_lsi.ipynb
+[I 05:39:32.028 NotebookApp] Saving file at /avito_third_lsi.ipynb
+[I 05:49:32.108 NotebookApp] Saving file at /avito_third_lsi.ipynb
+[I 05:51:32.038 NotebookApp] Saving file at /avito_third_lsi.ipynb
+[I 05:53:32.029 NotebookApp] Saving file at /avito_third_lsi.ipynb
+[I 05:55:33.447 NotebookApp] Saving file at /avito_third_lsi.ipynb
+[I 05:56:24.484 NotebookApp] Saving file at /avito_third_lsi.ipynb
+[I 05:59:32.035 NotebookApp] Saving file at /avito_third_lsi.ipynb
+[I 06:01:32.031 NotebookApp] Saving file at /avito_third_lsi.ipynb
+[LightGBM] [Warning] Find whitespaces in feature_names, replace with underlines
+[I 06:03:32.033 NotebookApp] Saving file at /avito_third_lsi.ipynb
+[I 07:33:32.216 NotebookApp] Saving file at /avito_third_lsi.ipynb
+[I 07:45:32.273 NotebookApp] Saving file at /avito_third_lsi.ipynb
+[I 08:17:32.268 NotebookApp] Saving file at /avito_third_lsi.ipynb
+[I 08:22:13.871 NotebookApp] Saving file at /avito_third_lsi.ipynb
+[I 08:22:34.062 NotebookApp] Saving file at /avito_third_lsi.ipynb
